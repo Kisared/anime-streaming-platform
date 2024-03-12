@@ -13,3 +13,8 @@ tnb - top navigation bar
     z-index: 4;
     background-color: #23252b;
 }
+
+.logo {
+    color: red;
+    font-family: "Brush Script MT", "Times New Roman", sans-serif;
+}
