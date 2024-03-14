@@ -18,6 +18,11 @@ body {
     background-color: #23252b;
 }
 
+#nav-bar-elements {
+    margin: 0;
+    padding: 0;
+}
+
 .logo {
     color: red;
     font-family: "Brush Script MT", "Times New Roman", sans-serif;
