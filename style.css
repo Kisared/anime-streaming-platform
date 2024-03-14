@@ -3,6 +3,10 @@ Abbreviations:
 tnb - top navigation bar
 */
 
+body {
+    background-color: #000;
+}
+
 #top-nav-bar {
     height: 60px;
     display: block;
