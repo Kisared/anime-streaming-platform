@@ -26,6 +26,10 @@ body {
     list-style-type: none;
 }
 
+#home-link, a:-webkit-any-link {
+    color: white;
+}
+
 .logo {
     color: red;
     font-family: "Brush Script MT", "Times New Roman", sans-serif;
