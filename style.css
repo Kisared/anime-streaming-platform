@@ -24,6 +24,7 @@ body {
     padding: 0;
     display: flex;
     list-style-type: none;
+    margin: 10px;
 }
 
 #home-link, a:-webkit-any-link {
