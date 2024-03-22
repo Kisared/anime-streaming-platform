@@ -37,6 +37,7 @@ li {
 .link-item {
     display: block;
     color: rgb(197, 96, 197);
+    text-align: center;
 }
 
 #home-link, a:-webkit-any-link {
