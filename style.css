@@ -38,6 +38,7 @@ li {
     display: block;
     color: rgb(197, 96, 197);
     text-align: center;
+    padding: 14px 16px;
 }
 
 #home-link, a:-webkit-any-link {
