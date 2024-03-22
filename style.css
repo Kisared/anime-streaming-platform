@@ -22,7 +22,7 @@ body {
 #nav-bar-elements {
     margin: 0;
     padding: 0;
-    display: grid;
+    overflow: hidden;
     list-style-type: none;
 }
 
