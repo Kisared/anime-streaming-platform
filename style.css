@@ -33,8 +33,10 @@ li {
 .active {
     background-color: rgb(197, 96, 197);
 }
+
 .link-item {
     display: block;
+    color: rgb(197, 96, 197);
 }
 
 #home-link, a:-webkit-any-link {
