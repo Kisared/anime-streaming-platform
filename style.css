@@ -30,6 +30,10 @@ li {
     display: inline;
 }
 
+.active {
+    background-color: rgb(197, 96, 197);
+}
+
 #home-link, a:-webkit-any-link {
     color: white;
 }
