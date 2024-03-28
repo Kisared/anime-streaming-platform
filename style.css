@@ -18,6 +18,14 @@ body {
     align-items: center;
 }
 
+#left-nav-elements {
+    flex-grow: 1;
+}
+
+#right-nav-elements {
+    flex-grow: 1;
+}
+
 #nav-bar-elements {
     margin: 0;
     padding: 0;
