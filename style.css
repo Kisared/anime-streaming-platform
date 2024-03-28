@@ -9,7 +9,7 @@ body {
 
 #top-nav-bar {
     height: 60px;
-    display: grid;
+    display: flex;
     width: 100%;
     position: fixed;
     top: 0;
