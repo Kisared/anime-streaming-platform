@@ -21,6 +21,7 @@ body {
 
 #left-nav-elements {
     display: flex;
+    padding: 0;
 }
 
 #right-nav-elements {
