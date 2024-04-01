@@ -20,6 +20,7 @@ body {
 }
 
 #left-nav-elements {
+    display: flex;
 }
 
 #right-nav-elements {
