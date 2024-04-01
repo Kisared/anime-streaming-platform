@@ -49,9 +49,6 @@ li {
     padding: 14px 16px;
 }
 
-#home-link, a:-webkit-any-link {
-    color: white;
-}
 
 .logo {
     color: rgb(197, 96, 197);
