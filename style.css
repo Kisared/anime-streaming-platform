@@ -51,7 +51,7 @@ li {
 }
 
 
-.logo {
-    color: rgb(197, 96, 197);
+#logo {
+    color: rgb(255, 0, 0);
     font-family: "Brush Script MT", "Times New Roman", sans-serif;
 }
